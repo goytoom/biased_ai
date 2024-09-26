@@ -132,9 +132,6 @@ Sample the test data from the MFRC:
 
 ### Text Annotations
 1. Open `annotations/codes/llama_annotations.ipynb`
-     - THIS WILL CHARGE YOUR ACCOUNT!
-     - Make sure that you know the prices before running (check https://openai.com/pricing)
-
 2. Run all cells:
      - This will save the LLaMA2 annotations under `results/predictions/llama2_mfrc_labels_full.csv`
   
